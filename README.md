@@ -1,4 +1,4 @@
-ATM-CDM-Steps
+BOC ATM-CDM-Steps
 A web-based simulation of ATM (Automated Teller Machine) and CDM (Cash Deposit Machine) workflows, designed to demonstrate the step-by-step processes involved in these banking operations.
 
 📁 Project Structure
